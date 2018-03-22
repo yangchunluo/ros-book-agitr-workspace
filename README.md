@@ -2,4 +2,4 @@
 
 Book website: https://www.cse.sc.edu/~jokane/agitr/
 
-<img src="https://www.cse.sc.edu/~jokane/agitr/cover.pdf" />
+<img src="https://www.cse.sc.edu/~jokane/agitr/cover-sm.jpg" />
